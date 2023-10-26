@@ -1,0 +1,26 @@
+TicketPanel:
+  Emoji: "🎫"
+  Label: "Create a Ticket"
+  Style: "SECONDARY"
+
+TICKETS_GENERAL_BUTTONS:
+  Close:
+    Style: "DANGER"
+    Label: "Close"
+    Emoji: "❌"
+  Claim:
+    Style: "PRIMARY"
+    Label: "Claim"
+    Emoji: "🙋‍♂️"
+  Transcript: 
+    Style: "SECONDARY"
+    Label: "Transcript"
+    Emoji: "📑"
+  Re_Open:
+    Style: "PRIMARY"
+    Label: "Re-Open"
+    Emoji: "🔓"
+  Delete: 
+    Style: "DANGER"
+    Label: "Delete"
+    Emoji: "⛔"

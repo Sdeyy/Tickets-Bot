@@ -1,0 +1,24 @@
+# Bot hecho por sdeyy.lsd
+
+# La id de tu servidor, si no sabes como obtenerla tienes problemas
+GUILDID: "895722872138506331"
+
+# Nombre del bot
+BOTNAME: "Tickets Bot"
+
+# El color que tendran los embeds
+EMBEDCOLOR: "PURPLE" # Tambien puede ser un HEX Color
+
+# Token de tu bot, si no sabes como obtener en serio tienes problemas
+TOKEN: "OTY0NzE0NDg1NDI2MzE5Mzcw.GyVHF0.lqehP9Dpy-ff9cM33tEnM9NDNXengQEYb7QERM"
+
+# Tickets Configuration
+TICKETS:
+  TICKET_CATEGORY: "895744056204861460" # Categoria donde se crearan los tickets
+  SUPPORT_ROLE: "895744048915169301" # Rol de soporte (El que podra atender los tickets y claimearlos)
+  ADMIN_ROLE: "895744044955746354" # Rol de administradores (No otorga permiso tampoco es necesario darle ninguno, solo no lo removera del ticket cuando sea claimeado)
+  TICKET_CLOSE_TIME: "5000" # El tiempo que tardara en eliminarse el ticket (Tiempo en MS, 1000 = 1s, 5000 = 5s)
+  TRANSCRIPT_CHANNEL: "939666827661946881" # Canal donde se enviara la transcripción del ticket
+
+# Doy soporte por discord si estoy de buenas: sdeyy.lsd
+# Servidor de discord: https://discord.gg/BWk7JxxcBg

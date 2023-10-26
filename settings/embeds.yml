@@ -1,0 +1,25 @@
+TicketPanel:
+  Title: "**TICKET SYSTEM**" # PlaceHolders: <botName>
+  Description: "If you need help from a staff member click on the button below to open a ticket!\n\n"
+  Footer: "<botName> Ticket System"
+  Banner: "https://i.imgur.com/79fAfnJ.jpg"
+  Timestamp: false
+
+TICKET:
+  TICKET_CREATING: "Creating ticket..."
+  TICKET_CREATED: "Your ticket has been created in <channel>"
+  TICKET_CLAIMED: "The ticket was claimed by <user>"
+  WHAT_DO_YOU_WANT: "What do you want to do?"
+  TICKET_CLOSED: "The ticket was closed by <user>"
+  TICKET_RENAMED: "The ticket was renamed to: <rename>"
+  NO_IS_TICKET: "Hey <user>, this channel is not a ticket!"
+  TICKET_DELETED: "The ticket was force-closed by <user>"
+
+TICKET_OPEN:
+  Title: "**TICKET SYSTEM**"
+  Description: "Thank you for contacting the support team, wait patiently for a staff to assist you, remember **do not ping staff members**!\n\n**🕛 | Creation Date**\n<creationDate>\n\nIf you do not reply to a ticket in under __12 hours__, your ticket may be closed!"
+  Footer: "<botName> | Ticket System"
+  Timestamp: false
+
+EMBEDS:
+  NO_PERMISSIONS: "You don't have permissions to use this command"
