@@ -1,6 +1,18 @@
-# Suggestion Bot
-Un bot de sugerencias con botones usando la libreria discord.js v13
+# Tickets Bot
+Un bot de tickets con botones usando la libreria discord.js v13
 Si encontraste un error o necesitas soporte entra a mi discord [Saturn Studios](https://discord.gg/BWk7JxxcBg) y tagueame (sdeyy.lsd)
+
+# IMPORTANTE
+* Te recomiendo que primero completes los datos del archivo config.yml en la carpeta settings para no tener problemas al ejecutar el panel de tickets
+* Para poder enviar el panel de tickets(osea ejecutar el comando setup) es necesario que tengas el rol de ADMIN puesto en la config.yml
+* Cualquier tipo de bug/error notificar por discord para poder arreglarlo
+
+# Comandos
+* Rename: Renombra el ticket
+* Add: Añade a un usuario al ticket
+* Remove: Remueve a un usuario del ticket
+* Close: Comando para cerrar el ticket (tiene la misma funcion que tocar el boton)
+* Setup: Envia el panel para abrir el ticket
 
 # Dependencias
 * Node v16 (recomendable 16.20.0/1)

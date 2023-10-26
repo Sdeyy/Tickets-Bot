@@ -1,7 +1,7 @@
 # Bot hecho por sdeyy.lsd
 
 # La id de tu servidor, si no sabes como obtenerla tienes problemas
-GUILDID: "895722872138506331"
+GUILDID: "YOUR GUILD ID HERE"
 
 # Nombre del bot
 BOTNAME: "Tickets Bot"
@@ -10,15 +10,15 @@ BOTNAME: "Tickets Bot"
 EMBEDCOLOR: "PURPLE" # Tambien puede ser un HEX Color
 
 # Token de tu bot, si no sabes como obtener en serio tienes problemas
-TOKEN: "OTY0NzE0NDg1NDI2MzE5Mzcw.GyVHF0.lqehP9Dpy-ff9cM33tEnM9NDNXengQEYb7QERM"
+TOKEN: "BOT TOKEN HERE"
 
 # Tickets Configuration
 TICKETS:
-  TICKET_CATEGORY: "895744056204861460" # Categoria donde se crearan los tickets
-  SUPPORT_ROLE: "895744048915169301" # Rol de soporte (El que podra atender los tickets y claimearlos)
-  ADMIN_ROLE: "895744044955746354" # Rol de administradores (No otorga permiso tampoco es necesario darle ninguno, solo no lo removera del ticket cuando sea claimeado)
+  TICKET_CATEGORY: "" # ID de la categoria donde se crearan los tickets
+  SUPPORT_ROLE: "" # ID del rol de soporte (El que podra atender los tickets y claimearlos)
+  ADMIN_ROLE: "" # ID del rol de administradores (No otorga permiso tampoco es necesario darle ninguno, solo no lo removera del ticket cuando sea claimeado y tendra permisos de enviar el panel de tickets)
   TICKET_CLOSE_TIME: "5000" # El tiempo que tardara en eliminarse el ticket (Tiempo en MS, 1000 = 1s, 5000 = 5s)
-  TRANSCRIPT_CHANNEL: "939666827661946881" # Canal donde se enviara la transcripción del ticket
+  TRANSCRIPT_CHANNEL: "" # ID del canal donde se enviara la transcripción del ticket
 
-# Doy soporte por discord si estoy de buenas: sdeyy.lsd
+# Doy soporte por discord: sdeyy.lsd
 # Servidor de discord: https://discord.gg/BWk7JxxcBg

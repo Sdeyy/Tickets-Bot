@@ -1,8 +1,8 @@
 TicketPanel:
-  Title: "**TICKET SYSTEM**" # PlaceHolders: <botName>
+  Title: "**TICKET SYSTEM**"
   Description: "If you need help from a staff member click on the button below to open a ticket!\n\n"
   Footer: "<botName> Ticket System"
-  Banner: "https://i.imgur.com/79fAfnJ.jpg"
+  Banner: "" # Banner URL
   Timestamp: false
 
 TICKET:
@@ -23,3 +23,4 @@ TICKET_OPEN:
 
 EMBEDS:
   NO_PERMISSIONS: "You don't have permissions to use this command"
+  
