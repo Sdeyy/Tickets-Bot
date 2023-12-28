@@ -1,6 +1,6 @@
 # Tickets Bot
 Un bot de tickets con botones usando la libreria discord.js v13
-Si encontraste un error o necesitas soporte entra a mi discord [Saturn Studios](https://discord.gg/BWk7JxxcBg) y tagueame (sdeyy.lsd)
+Si encontraste un error o necesitas soporte entra a mi discord [Sdeyy's Discord](http://discord.sdeyy.online/) y tagueame (@sdeyy.lsd)
 
 # IMPORTANTE
 * Te recomiendo que primero completes los datos del archivo config.yml en la carpeta settings para no tener problemas al ejecutar el panel de tickets
@@ -16,7 +16,7 @@ Si encontraste un error o necesitas soporte entra a mi discord [Saturn Studios](
 
 # Dependencias
 * Node v16 (recomendable 16.20.0/1)
-* npm
+* npm v8.19.4
 
 # ¿Cómo invito el bot a mi servidor?
 
